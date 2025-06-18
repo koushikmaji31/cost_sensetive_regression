@@ -52,11 +52,12 @@ The models were evaluated based on both accuracy and a total cost function that 
 
 ### Threshold vs. Accuracy
 
-![Bahnsen Accuracy vs. Threshold](bahnson_acc_th.png)
 *Accuracy plot for the Bahnsen Method*
+![Bahnsen Accuracy vs. Threshold](bahnson_acc_th.png)
 
-![Nikou-Gunnemann Accuracy vs. Threshold](nik_acc_thre.png)
 *Accuracy plot for the Nikou-Gunnemann Method*
+![Nikou-Gunnemann Accuracy vs. Threshold](nik_acc_thre.png)
+
 
 ## ✅ Conclusion
 
