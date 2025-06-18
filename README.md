@@ -67,11 +67,11 @@ The results indicate that while a standard Logistic Regression model can achieve
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/koushikmaji31/cost_sensetive_regression.git)
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd <repository-name>
+    cd [<repository-name>](https://github.com/koushikmaji31/cost_sensetive_regression.git)
     ```
 3.  The main implementation can be found in `ans.ipynb`. You can open and run this Jupyter Notebook to see the code and reproduce the results.
 
